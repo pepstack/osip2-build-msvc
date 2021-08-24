@@ -47,4 +47,4 @@
   inet_ntop.c
   windows_port.c
   正在生成代码...
-  libcares.vcxproj -> C:\Users\cheungmine\Workspace\libosip2-5.2.1\exosip\platform\vsnet\v140\x64\Release\libcares.lib
+  libcares.vcxproj -> C:\Users\cheungmine\Workspace\github.com\osip2-build-msvc\exosip\platform\vsnet\v140\x64\Release\libcares.lib

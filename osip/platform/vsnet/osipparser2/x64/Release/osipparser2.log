@@ -39,4 +39,4 @@
   sdp_accessor.c
   sdp_message.c
   正在生成代码...
-  osipparser2.vcxproj -> C:\Users\cheungmine\Workspace\libosip2-5.2.1\exosip\platform\vsnet\v140\x64\Release\osipparser2.lib
+  osipparser2.vcxproj -> C:\Users\cheungmine\Workspace\github.com\osip2-build-msvc\exosip\platform\vsnet\v140\x64\Release\osipparser2.lib

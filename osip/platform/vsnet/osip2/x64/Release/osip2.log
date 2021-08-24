@@ -17,4 +17,4 @@
   port_sema.c
   port_thread.c
   正在生成代码...
-  osip2.vcxproj -> C:\Users\cheungmine\Workspace\libosip2-5.2.1\exosip\platform\vsnet\v140\x64\Release\osip2.lib
+  osip2.vcxproj -> C:\Users\cheungmine\Workspace\github.com\osip2-build-msvc\exosip\platform\vsnet\v140\x64\Release\osip2.lib

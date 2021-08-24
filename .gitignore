@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# MSVC generated files
+*.VC.db
+Win32/Debug/
+Win32/Release/
+x64/Debug/
+x64/Release/

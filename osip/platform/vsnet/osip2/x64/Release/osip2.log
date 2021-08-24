@@ -1,0 +1,20 @@
+﻿  fsm_misc.c
+  ict.c
+  ict_fsm.c
+  ist.c
+  ist_fsm.c
+  nict.c
+  nict_fsm.c
+  nist.c
+  nist_fsm.c
+  osip.c
+  osip_dialog.c
+  osip_event.c
+  osip_time.c
+  osip_transaction.c
+  port_condv.c
+  port_fifo.c
+  port_sema.c
+  port_thread.c
+  正在生成代码...
+  osip2.vcxproj -> C:\Users\cheungmine\Workspace\libosip2-5.2.1\exosip\platform\vsnet\v140\x64\Release\osip2.lib
